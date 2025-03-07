@@ -46,7 +46,7 @@ Here are some screenshots of the system:
 ## 🏗️ Installation & Setup
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/society-management-system.git
+   https://github.com/Insidenhhset/SocietyManagementSystem.git
    ```
 2. **Navigate to the project directory:**
    ```bash
